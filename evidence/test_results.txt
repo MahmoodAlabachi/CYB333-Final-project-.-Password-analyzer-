@@ -1,0 +1,23 @@
+test_alphabet_sequence (test_password_analyzer.PasswordAnalyzerTests.test_alphabet_sequence) ... ok
+test_analysis_does_not_print_the_password (test_password_analyzer.PasswordAnalyzerTests.test_analysis_does_not_print_the_password) ... ok
+test_ascending_digit_sequence (test_password_analyzer.PasswordAnalyzerTests.test_ascending_digit_sequence) ... ok
+test_descending_digit_sequence (test_password_analyzer.PasswordAnalyzerTests.test_descending_digit_sequence) ... ok
+test_empty_password_is_weak (test_password_analyzer.PasswordAnalyzerTests.test_empty_password_is_weak) ... ok
+test_keyboard_sequence (test_password_analyzer.PasswordAnalyzerTests.test_keyboard_sequence) ... ok
+test_local_common_list_ignores_case (test_password_analyzer.PasswordAnalyzerTests.test_local_common_list_ignores_case) ... ok
+test_medium_for_8_to_11_characters (test_password_analyzer.PasswordAnalyzerTests.test_medium_for_8_to_11_characters) ... ok
+test_missing_digit (test_password_analyzer.PasswordAnalyzerTests.test_missing_digit) ... ok
+test_missing_lowercase (test_password_analyzer.PasswordAnalyzerTests.test_missing_lowercase) ... ok
+test_missing_symbol (test_password_analyzer.PasswordAnalyzerTests.test_missing_symbol) ... ok
+test_missing_uppercase (test_password_analyzer.PasswordAnalyzerTests.test_missing_uppercase) ... ok
+test_no_repeated_characters (test_password_analyzer.PasswordAnalyzerTests.test_no_repeated_characters) ... ok
+test_repeated_characters_are_found (test_password_analyzer.PasswordAnalyzerTests.test_repeated_characters_are_found) ... ok
+test_sequence_overrides_other_positive_criteria (test_password_analyzer.PasswordAnalyzerTests.test_sequence_overrides_other_positive_criteria) ... ok
+test_strong_fictional_password (test_password_analyzer.PasswordAnalyzerTests.test_strong_fictional_password) ... ok
+test_too_short_has_length_issue (test_password_analyzer.PasswordAnalyzerTests.test_too_short_has_length_issue) ... ok
+test_unknown_password_not_falsely_in_small_denylist (test_password_analyzer.PasswordAnalyzerTests.test_unknown_password_not_falsely_in_small_denylist) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.001s
+
+OK

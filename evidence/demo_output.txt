@@ -1,0 +1,55 @@
+Password Strength Analyzer (educational demonstration)
+Use only fictional passwords; never enter a real account password.
+
+Sample 1: Short and predictable (invented test input)
+Password strength: Weak
+Score: 0/6
+Issues:
+  - Use at least 8 characters to meet the demonstration minimum.
+  - Include at least one uppercase letter.
+  - Include at least one number.
+  - Include at least one symbol.
+  - Avoid sequences such as abc, 123, 321, or qwe.
+Suggestions:
+  - For a stronger choice, use a longer, less predictable passphrase.
+  - Address the listed issues and test a NEW fictional sample.
+
+Sample 2: Known local-list example (invented test input)
+Password strength: Weak
+Score: 0/6
+Issues:
+  - This password appears on the small local common-password list.
+Suggestions:
+  - For a stronger choice, use a longer, less predictable passphrase.
+  - Address the listed issues and test a NEW fictional sample.
+
+Sample 3: Repeated character example (invented test input)
+Password strength: Weak
+Score: 0/6
+Issues:
+  - Avoid three or more repeated adjacent characters.
+Suggestions:
+  - Address the listed issues and test a NEW fictional sample.
+
+Sample 4: Sequential example (invented test input)
+Password strength: Weak
+Score: 0/6
+Issues:
+  - Avoid sequences such as abc, 123, 321, or qwe.
+Suggestions:
+  - For a stronger choice, use a longer, less predictable passphrase.
+  - Address the listed issues and test a NEW fictional sample.
+
+Sample 5: Valid but short (invented test input)
+Password strength: Medium
+Score: 5/6
+All demonstration minimum requirements are met.
+Suggestions:
+  - For a stronger choice, use a longer, less predictable passphrase.
+
+Sample 6: Longer fictional sample (invented test input)
+Password strength: Strong
+Score: 6/6
+All demonstration minimum requirements are met.
+Suggestions:
+  - Passing these rules is not proof of real-world security.
