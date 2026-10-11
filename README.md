@@ -122,12 +122,4 @@ Tests cover empty/short input, individual missing categories, case-insensitive c
 
 The project proposal and progress update document use of ChatGPT for clarifying scope, Python loop and list concepts, debugging, and test ideas. Code and documentation have since been reviewed and tested. The report includes **representative prompt examples rather than claimed verbatim transcripts**. 
 
-## Final submission checklist
 
-- [x] Documented Python program
-- [x] README with setup, features, dependencies, and limitations
-- [x] Repeatable tests and captured successful demo results
-- [x] Final report (1,000–1,500 words, excluding appendices)
-- [x] Insert genuine screenshots of your AI prompts and responses into the report appendix
-- [x] Fill in your actual total project hours and time breakdown in the report
-- [x] Confirm any instructor-specific naming or submission-platform requirements
