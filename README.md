@@ -66,7 +66,7 @@ Password_Strength_Analyzer_Project/
    python -m unittest -v test_password_analyzer.py
    ```
 
-On computers that use `python3` or `py`, replace `python` in each command accordingly.
+
 
 ## Score and labels
 
